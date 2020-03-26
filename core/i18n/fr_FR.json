@@ -1,9 +1,22 @@
 {
+    "plugins\/husqvarna\/plugin_info\/configuration.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
+        "Compte husqvarna": "Compte husqvarna",
+        "Password husqvarna": "Password husqvarna"
+    },
     "plugins\/husqvarna\/desktop\/php\/husqvarna.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
         "Detecter": "Detecter",
         "Gestion": "Gestion",
         "Configuration": "Configuration",
         "Mes equipements": "Mes equipements",
+        "Ajouter": "Ajouter",
+        "Vous n'avez pas encore de husqvarna, cliquez sur Detecter un équipement pour commencer": "Vous n'avez pas encore de husqvarna, cliquez sur Detecter un équipement pour commencer",
+        "Sauvegarder": "Sauvegarder",
+        "Supprimer": "Supprimer",
+        "Configuration avancée": "Configuration avancée",
+        "Equipement": "Equipement",
+        "Commandes": "Commandes",
         "Général": "Général",
         "Identifiant de l'équipement": "Identifiant de l'équipement",
         "Nom de l'équipement": "Nom de l'équipement",
@@ -13,20 +26,32 @@
         "Catégorie": "Catégorie",
         "Activer": "Activer",
         "Visible": "Visible",
-        "Indicateurs": "Indicateurs",
         "Nom": "Nom",
         "Sous-Type": "Sous-Type",
-        "Paramètres": "Paramètres",
-        "Supprimer": "Supprimer",
-        "Sauvegarder": "Sauvegarder"
+        "Paramètres": "Paramètres"
     },
-    "plugins\/husqvarna\/plugin_info\/configuration.php": {
-        "Compte husqvarna": "Compte husqvarna",
-        "Password husqvarna": "Password husqvarna"
+    "plugins\/husqvarna\/desktop\/js\/husqvarna.js": {
+        "Nom": "Nom",
+        "Historiser": "Historiser",
+        "Afficher": "Afficher",
+        "Inverser": "Inverser",
+        "Correction Min\t Auto": "Correction Min\t Auto",
+        "Correction Max Auto": "Correction Max Auto",
+        "Min": "Min",
+        "Max": "Max",
+        "Tester": "Tester"
+    },
+    "plugins\/husqvarna\/core\/ajax\/husqvarna.ajax.php": {
+        "401 - Accès non autorisé": "401 - Accès non autorisé",
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
     },
     "plugins\/husqvarna\/core\/class\/husqvarna.class.php": {
         "Démarrer": "Démarrer",
         "Arrêter": "Arrêter",
-        "Ranger": "Ranger"
+        "Ranger": "Ranger",
+        "Inconnue": "Inconnue"
+    },
+    "plugins\/husqvarna\/core\/api\/husqvarna.api.php": {
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
     }
 }
