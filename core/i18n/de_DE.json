@@ -37,8 +37,8 @@
         "Inverser": "Umgekehrt",
         "Correction Min\t Auto": "Min. Automatische Korrektur",
         "Correction Max Auto": "Korrektur Auto Max",
-        "Min": "Min",
-        "Max": "Max",
+        "Min": "Niedrig",
+        "Max": "",
         "Tester": "Test"
     },
     "plugins\/husqvarna\/core\/ajax\/husqvarna.ajax.php": {
