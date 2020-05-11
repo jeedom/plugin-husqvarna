@@ -43,7 +43,7 @@
     },
     "plugins\/husqvarna\/core\/ajax\/husqvarna.ajax.php": {
         "401 - Accès non autorisé": "401 - Несанкционированный доступ",
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/husqvarna\/core\/class\/husqvarna.class.php": {
         "Démarrer": "",
@@ -52,6 +52,6 @@
         "Inconnue": "Неизвестный"
     },
     "plugins\/husqvarna\/core\/api\/husqvarna.api.php": {
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     }
 }

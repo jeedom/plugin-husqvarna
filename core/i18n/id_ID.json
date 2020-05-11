@@ -43,7 +43,7 @@
     },
     "plugins\/husqvarna\/core\/ajax\/husqvarna.ajax.php": {
         "401 - Accès non autorisé": "401 - Akses tidak sah",
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     },
     "plugins\/husqvarna\/core\/class\/husqvarna.class.php": {
         "Démarrer": "Awal",
@@ -52,6 +52,6 @@
         "Inconnue": "Tidak dikenal"
     },
     "plugins\/husqvarna\/core\/api\/husqvarna.api.php": {
-        "Aucune methode correspondante à : ": "Aucune methode correspondante à : "
+        "Aucune methode correspondante à : ": "Aucune methode correspondante à :"
     }
 }
